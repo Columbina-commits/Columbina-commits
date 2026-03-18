@@ -38,10 +38,10 @@
 
 ## 👨‍💻 关于我
 
-- 🌱 目前正在学习 [你正在学习的技术]
-- 💻 我的主要技术栈: [你的技术栈，例: JavaScript, Python, React, Node.js]
-- 📫 联系我: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ 有趣的事实: [你的有趣事实，例: 我喜欢开源项目]
+- 🌱 目前正在学习 [everything]
+- 💻 我的主要技术栈: [JavaScript, Python, React, Node.js]
+- 📫 联系我: [1424467707@qq.com](mailto:your.email@example.com)
+- ⚡ 有趣的事实: [我喜欢量化研究]
 
 ---
 
